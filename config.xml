@@ -3,7 +3,7 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "site.max-loto.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. max-loto.site</name>
 
@@ -39,10 +39,10 @@
         <icon src="res/android/icon/3eec310e8d28a8daed370e5578870a03.png" density="xxhdpi" />
         <icon src="res/android/icon/77564b2367dca2f976973c09eb43dd83.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/57be39e48952eb363f2a7b139cc72d0d.png" density="port-hdpi"/>
-        <splash src="res/android/screen/e2afed0cff3fdba2d985e74208e62b78.png" density="port-ldpi"/>
-        <splash src="res/android/screen/be178dfefb2e4b44abb15c96dc0f7e83.png" density="port-mdpi"/>
-        <splash src="res/android/screen/add20462c0280b22feccedc4f2d7d83f.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/268d8f54322034681ddb4df219246131.png" density="port-hdpi"/>
+        <splash src="res/android/screen/c89cfffcd4202a55916c4d7b7eebf3ce.png" density="port-ldpi"/>
+        <splash src="res/android/screen/7f5131b994000f59d061442c44e86fd3.png" density="port-mdpi"/>
+        <splash src="res/android/screen/4b47bbcc3d311e7967af72209391bbec.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
